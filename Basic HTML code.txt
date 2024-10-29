@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+   <head>
+	<title>
+	Basic Html
+	</title>
+   </head>
+<body>
+   <h1>Welcome to AJA </h1>
+
+     <h2>This is an Basic HTML code </h2>
+
+        <h3>Introduction To html</h3>
+
+  <p>
+	HTML is the language of the web,used by billions of websites to create the pages you see every day.
+	
+	--:-- HTML stands for Hyper Text Markup Language.
+	--:--
+  </p>
